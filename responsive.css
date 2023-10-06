@@ -1,0 +1,23 @@
+@media screen and (max-width: 576px) {
+    .nav{
+        flex-direction: column;
+    }
+    .nav .nav-part-1{
+        flex-direction: column;
+    }
+    .nav .nav-part-2{
+        flex-direction: column;
+    }
+    .header-section .banner{
+        flex-direction: column;
+    }
+    .online-games-content{
+        flex-direction: column;
+    }
+    .play{
+        flex-direction: column;
+    }
+    .play-instantly{
+        flex-direction:column; 
+    }
+}
